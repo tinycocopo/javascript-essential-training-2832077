@@ -82,4 +82,6 @@ const usedStatus = () => {
   `);
 };
 
-usedStatus();
+everydayPack.usedStatus();
+
+window.everydayPack = everydayPack;

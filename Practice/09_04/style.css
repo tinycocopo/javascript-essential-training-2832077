@@ -22,3 +22,11 @@ body {
   height: 6rem;
   background-color: hsl(0, 0%, 90%);
 }
+
+.lavender {
+  background-color: hsl(286, 100%, 82%);
+}
+
+.teal {
+  background-color: hsl(191, 96%, 52%);
+}
