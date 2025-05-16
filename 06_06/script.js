@@ -5,9 +5,9 @@
 
 // String:
 let stringDemo = "A string of text.";
-console.log("String:", stringDemo);
+console.log("String:", typeof stringDemo);
 
-// Numbes:
+// Numbers:
 let integerDemo = 4;
 console.log("Integer:", integerDemo);
 
